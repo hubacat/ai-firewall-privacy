@@ -50,4 +50,4 @@ If the extension's data handling changes, this policy will be updated and the
 "Last updated" date above will change.
 
 ## Contact
-Questions about this policy can be directed to: `YOUR-CONTACT-EMAIL-HERE`.
+Questions about this policy can be directed to: `aifirewall.dev@gmail.com`.
